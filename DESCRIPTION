@@ -1,0 +1,16 @@
+Package: s3internal
+Title: TITLE
+Description: DESCRIPTION
+Authors@R: c(
+    person("mb706", email = "things.developer@mb706.com", role = c("aut", "cre")))
+URL: https://github.com/mb706/PACKAGE
+BugReports: https://github.com/mb706/PACKAGE/issues
+License: LGPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+LazyData: yes
+ByteCompile: yes
+Version: 0.0.0
+RoxygenNote: 7.1.1
+Suggests:
+    testthat
